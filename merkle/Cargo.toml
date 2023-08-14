@@ -1,0 +1,7 @@
+[package]
+name = "fum_merkle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fum_utils = { path = '../utils'}
